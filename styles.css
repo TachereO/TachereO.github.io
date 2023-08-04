@@ -3,7 +3,11 @@ body{
     border-color: black;
 }
 
-
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 img{
