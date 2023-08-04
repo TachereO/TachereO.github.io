@@ -1,8 +1,43 @@
-*{
-  margin: 0;
-  padding: 0;
+body{
+    border-radius: 1rem;
+    border-color: black;
+}
+
+
+
+
+
+
+
+img{
+    width: 250px;
+    border-radius: 250px;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1{
-  color:blue;
+    font-family:'Times New Roman', Times, serif;
 }
+
+h5{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+i{
+    font-size: 1rem;
+}
+
