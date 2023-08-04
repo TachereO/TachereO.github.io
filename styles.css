@@ -6,19 +6,13 @@ body{
 
 
 
-
-
-
 img{
-    width: 250px;
-    border-radius: 250px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
 }
 
-.img{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
